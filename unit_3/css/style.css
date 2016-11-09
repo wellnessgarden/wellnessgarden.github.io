@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: url("images/hero_herb_02.jpg");
+  background-size: cover;
+  color: #5B5F3A;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h3 {
+	font-family: 'Arima Madurai', cursive;
+	font-size: 40px
+}
+
+h5 {
+	font-family: 'Arima Madurai', cursive;
+	font-size: 18px
+}
+#slogan {
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	font-size: 18px;
+}
